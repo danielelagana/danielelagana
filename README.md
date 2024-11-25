@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **danielelagana@outlook.it**
 
-- 📄 Know about my experiences [Updated CV](https://www.icloud.com/iclouddrive/054SYx2qvjzrO-PiKMZfmRhig#CV_DanieleLagana_latest-black)
+- 📄 Know about my experiences [Updated CV](https://github.com/danielelagana/danielelagana/blob/92a3fbe941db91205c02f49ab859fb8eccbdc4a5/CV_DanieleLagana_latest-black.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
